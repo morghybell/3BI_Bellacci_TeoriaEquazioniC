@@ -76,6 +76,7 @@ namespace EquazioniLibrary
             return delta;
         }
 
+
         //5 risolve un'equazione di primo grado
         static public string EquationDegree1(double n1, double n2)
         {
